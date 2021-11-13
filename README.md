@@ -3,8 +3,7 @@
 **Overview of the analysis: Explain the purpose of this analysis.**
 
 
-**Results: Using bulleted lists and images to support your answers, address the following questions.
-**
+**Results: Using bulleted lists and images to support your answers, address the following questions.**
 
 
 **Data Preprocessing**
@@ -24,4 +23,4 @@
 
 
 
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+**Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.**
